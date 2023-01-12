@@ -1,0 +1,41 @@
+*{   box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+}
+header{
+    background-color: rgb(219, 193, 193);
+    height: 2000px; width: 2000px;
+   margin: 0 auto;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    padding: 30px;
+    float: left;
+}
+.header-content { 
+    padding: 30px;
+    float: left;
+    color: aqua;
+ }
+ .header-content a{
+    text-decoration: underline;
+    font-size: medium;
+ }
+.div-close{
+    clear: both;
+}
+hr{ border: solid 2px rgb(8, 9, 9);}
+
+.informetion{
+    padding: 30px;
+    float: left;}
+ 
